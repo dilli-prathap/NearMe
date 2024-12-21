@@ -180,8 +180,7 @@ thanjavur.html
 ```
 
 ## OUTPUT
-
-![Screenshot 2024-12-21 174308](https://github.com/user-attachments/assets/60c256a5-b52a-40a1-b4f4-fae68fa81070)
+![Screenshot 2024-12-21 175439](https://github.com/user-attachments/assets/dc8cbd27-20c5-4792-9192-e4b92d951fde)
 
 ![Screenshot 2024-12-21 174402](https://github.com/user-attachments/assets/668f9c40-e7f5-404a-bd48-dd692130d924)
 
